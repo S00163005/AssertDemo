@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E780E361-E926-4FFD-916D-38709B402324}</ProjectGuid>
+    <ProjectGuid>{9D1C866C-E6B3-4835-96AE-1C1D715C1BDB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AssertDemo</RootNamespace>
-    <AssemblyName>AssertDemo</AssemblyName>
+    <RootNamespace>AssertDemo.Tests</RootNamespace>
+    <AssemblyName>AssertDemo.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
